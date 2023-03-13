@@ -9,6 +9,7 @@ numpy = "*"
 pandas = "*"
 cufflinks = "*"
 plotly = "*"
+jupyter-contrib-nbextensions = "*"
 
 [dev-packages]
 
