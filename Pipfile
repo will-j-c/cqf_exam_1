@@ -7,9 +7,9 @@ name = "pypi"
 jupyter = "*"
 numpy = "*"
 pandas = "*"
-cufflinks = "*"
 plotly = "*"
 jupyter-contrib-nbextensions = "*"
+scipy = "*"
 
 [dev-packages]
 
