@@ -388,6 +388,7 @@
         },
         "jupyter-server": {
             "hashes": [
+                "sha256:9fde612791f716fd34d610cd939704a9639643744751ba66e7ee8fdc9cead07e",
                 "sha256:e6bc1e9e96d7c55b9ce9699ff6cb9a910581fe7349e27c40389acb67632e24c0"
             ],
             "markers": "python_version >= '3.8'",
