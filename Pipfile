@@ -10,6 +10,8 @@ pandas = "*"
 plotly = "*"
 jupyter-contrib-nbextensions = "*"
 scipy = "*"
+nbmerge = "*"
+nbconvert = "*"
 
 [dev-packages]
 
