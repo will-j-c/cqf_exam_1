@@ -12,6 +12,7 @@ jupyter-contrib-nbextensions = "*"
 scipy = "*"
 nbmerge = "*"
 nbconvert = "*"
+notebook = "==6.1.0"
 
 [dev-packages]
 
